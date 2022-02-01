@@ -1,3 +1,7 @@
 [submodule "themes/devise"]
 	path = themes/devise
 	url = https://github.com/austingebauer/devise.git
+[submodule "public"]
+	path = public
+	url = https://github.com/nSchantz/nschantz.github.io.git
+	branch = main

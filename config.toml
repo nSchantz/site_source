@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://nschantz.github.io/'
 languageCode = 'en-us'
 title = 'Nick Schantz'
 theme = 'devise'
@@ -32,7 +32,7 @@ weight = -90
 [params]
 description = "Your meta description" # Your meta description of the site
 header_title = "Nicholas Schantz" # Your header title
-header_subtitle = "Computer Engineering 4th Year" # Your header subtitle
+header_subtitle = "A Work in Progress" # Your header subtitle
 home_image = "/images/avatar.png" # Path to header image starting from the static directory
 recent_posts = 5 # Max amount of recent posts to show
 mainSections = [
